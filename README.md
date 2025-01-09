@@ -1,4 +1,6 @@
 # SendEmail
+# Demo here https://www.loom.com/share/d5f6f5086a374935be08cb5b526cd920?sid=b358e307-7273-4432-94a3-e65cc96df9a9
+
 This code will Query OpenAI to get bitcoin information. Use Brave api to store the information in supabase database and then use mailnet to send email
 # Personalized Finance Analysis System
 
